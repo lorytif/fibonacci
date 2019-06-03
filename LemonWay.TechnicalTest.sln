@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalTest", "LemonWay.TechnicalTest.Consumer\TechnicalTest.csproj", "{40C2E9CD-82DC-4E80-B89B-DCEB63E9F024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "LemonWay.TechnicalTest.Services\Services.csproj", "{9F0F0D7A-09F6-4C62-99B3-5A8654DA9B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C2E9CD-82DC-4E80-B89B-DCEB63E9F024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C2E9CD-82DC-4E80-B89B-DCEB63E9F024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C2E9CD-82DC-4E80-B89B-DCEB63E9F024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C2E9CD-82DC-4E80-B89B-DCEB63E9F024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0F0D7A-09F6-4C62-99B3-5A8654DA9B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0F0D7A-09F6-4C62-99B3-5A8654DA9B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0F0D7A-09F6-4C62-99B3-5A8654DA9B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0F0D7A-09F6-4C62-99B3-5A8654DA9B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D751A3A0-AC44-4C64-AF7C-105B9E15E174}
+	EndGlobalSection
+EndGlobal
